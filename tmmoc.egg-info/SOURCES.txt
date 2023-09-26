@@ -1,9 +1,0 @@
-main.py
-pyproject.toml
-setup.py
-tmmoc.c
-tmmocmodule.c
-tmmoc.egg-info/PKG-INFO
-tmmoc.egg-info/SOURCES.txt
-tmmoc.egg-info/dependency_links.txt
-tmmoc.egg-info/top_level.txt
